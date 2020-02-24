@@ -1,0 +1,9 @@
+C:\Users\Jonathan Mantovani\Documents\Aulas C#\ListaGenerica\ListaGenerica\bin\Debug\ListaGenerica.exe.config
+C:\Users\Jonathan Mantovani\Documents\Aulas C#\ListaGenerica\ListaGenerica\bin\Debug\ListaGenerica.exe
+C:\Users\Jonathan Mantovani\Documents\Aulas C#\ListaGenerica\ListaGenerica\bin\Debug\ListaGenerica.pdb
+C:\Users\Jonathan Mantovani\Documents\Aulas C#\ListaGenerica\ListaGenerica\obj\Debug\ListaGenerica.csprojAssemblyReference.cache
+C:\Users\Jonathan Mantovani\Documents\Aulas C#\ListaGenerica\ListaGenerica\obj\Debug\ListaGenerica.Form1.resources
+C:\Users\Jonathan Mantovani\Documents\Aulas C#\ListaGenerica\ListaGenerica\obj\Debug\ListaGenerica.Properties.Resources.resources
+C:\Users\Jonathan Mantovani\Documents\Aulas C#\ListaGenerica\ListaGenerica\obj\Debug\ListaGenerica.csproj.GenerateResource.cache
+C:\Users\Jonathan Mantovani\Documents\Aulas C#\ListaGenerica\ListaGenerica\obj\Debug\ListaGenerica.exe
+C:\Users\Jonathan Mantovani\Documents\Aulas C#\ListaGenerica\ListaGenerica\obj\Debug\ListaGenerica.pdb
