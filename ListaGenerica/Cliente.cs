@@ -8,7 +8,7 @@ namespace ListaGenerica
 {
     class Cliente
     {
-        public string Data;
+        public DateTime Data;
         private string Nome;
         private int Idade;
 
@@ -20,7 +20,7 @@ namespace ListaGenerica
                 Nome = value;
             }
         }
-        public string data
+        public DateTime data
         {
             get { return Data; }
             set
